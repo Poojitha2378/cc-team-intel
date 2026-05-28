@@ -1,4 +1,4 @@
-# cc-team-intel
+# cc-team-intel 
 
 **Team-level Claude Code cost intelligence for engineering leaders.**
 
